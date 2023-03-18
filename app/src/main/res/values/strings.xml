@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="name">Ahmed Hassan</string>
+    <string name="work_hours">3hr</string>
+    <string name="job_title">Engineer</string>
+    <string name="nationality">Russian</string>
+    <string name="location">UK</string>
+    <string name="_5_days_ago">5 Days ago</string>
+    <string name="reviews">(150&#160;Reviews)</string>
+    <string name="rate">4.5</string>
+    <string name="person_description">person photo</string>
+    <string name="location_description">Location icon</string>
+    <string name="star">Star</string>
+</resources>
